@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Lochan  
+## 👋 Helloo, I’m Lochan  
 
 💡 Passionate about **AI**, **Quantum Computing**, and **Intelligent Systems**.  
 🧠 Currently diving into **Advanced Deep Learning** and **Quantum–Classical Hybrids** to bridge **AI and Quantum**.  
