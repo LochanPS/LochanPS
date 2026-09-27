@@ -1,10 +1,15 @@
-## 👋 Helloo, I’m Lochan  
+## Hello, I’m Lochan.
 
-💡 Passionate about **AI**, **Quantum Computing**, and **Intelligent Systems**.  
-🧠 Currently diving into **Advanced Deep Learning** and **Quantum–Classical Hybrids** to bridge **AI and Quantum**.  
-⚙️ Building tools that merge **Natural Language**, **Automation**, and **Circuit Design**.  
-🤝 Open to collaborating on **AI Research**, **Open-Source Projects**, and **Developer Tools**.  
-🚀 Always looking to help others explore how **AI and Quantum Computing can push the boundaries of intelligent systems**.
+I build at the intersection of AI, Quantum Computing, and secure intelligent systems.
+
+Currently working on quantum software and simulators, AI agents and developer tools, post-quantum cryptography infrastructure, and quantum-classical machine learning.
+
+My work spans Qiskit, Python, TensorFlow, deep learning, quantum algorithms, quantum error correction, and post-quantum cryptography.
+
+I’m also building tools and research projects around quantum education, AI-assisted development, and the transition toward post-quantum-ready infrastructure.
+
+Open to collaborating on quantum computing, AI research, open-source software, developer tools, and post-quantum security.
+
 
 <!--
 **LochanPS/LochanPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
